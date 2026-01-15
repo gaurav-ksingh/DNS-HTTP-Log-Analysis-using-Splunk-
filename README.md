@@ -13,18 +13,21 @@ Ingest and analyze HTTP logs using Splunk • Detect client-side (4xx) and serve
 •	SOC monitoring techniques
 
 # Data Information
-Field	Description
-timestamp	Event time (ISO format)
-log_type	http / dns
-src_ip	Source IP
-dest_ip	Destination IP
-method	HTTP method / DNS QUERY
-uri	Web URI (HTTP only)
-status	HTTP status or DNS response
-user_agent	Client user agent
-bytes	Data size
-tls_version	TLS version (HTTP only)
-domain	Website / DNS domain
+
+| Field        | Description                               |
+|-------------|-------------------------------------------|
+| timestamp   | Event time (ISO format)                   |
+| log_type    | Log type (http / dns)                     |
+| src_ip      | Source IP address                         |
+| dest_ip     | Destination IP address                   |
+| method      | HTTP method or DNS query type             |
+| uri         | Web URI (HTTP only)                       |
+| status      | HTTP status code or DNS response          |
+| user_agent | Client user agent                         |
+| bytes       | Data size in bytes                        |
+| tls_version| TLS version (HTTP only)                   |
+| domain     | Website or DNS domain                     |
+
 
 # How to Add This File into Splunk
 1.	Open Splunk Web
