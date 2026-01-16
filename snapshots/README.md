@@ -35,12 +35,12 @@
 
 <img width="975" height="318" alt="image" src="https://github.com/user-attachments/assets/50d4dba0-c142-4a6b-9229-388d69e60714" />
 
-
+# HTTP errors over time
 <img width="975" height="473" alt="image" src="https://github.com/user-attachments/assets/b32ce71d-7a2c-4181-9d80-85812698b7d0" />
 
 
 
-
+# TLS version usage
 <img width="975" height="278" alt="image" src="https://github.com/user-attachments/assets/02ea4a50-c057-4cf7-be9e-0a118f85aafd" />
 
 
@@ -55,7 +55,6 @@
 
 
 
-# TLS version usage
 <img width="975" height="328" alt="image" src="https://github.com/user-attachments/assets/facd00db-2da1-44cc-ae62-826afe0c848a" />
 
 ## Splunk Query: Count Events by Log Type 
