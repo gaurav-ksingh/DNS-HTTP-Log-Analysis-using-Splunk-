@@ -26,12 +26,13 @@
 
 <img width="975" height="314" alt="image" src="https://github.com/user-attachments/assets/4cd287ce-a1e0-4900-9d0a-bc13bfdf2a51" />
 
-
+# Suspicious user-agents
 <img width="975" height="459" alt="image" src="https://github.com/user-attachments/assets/431fb9d2-2421-4d87-aef0-400417d1289c" />
 
-
+# DNS queries to suspicious domains
 <img width="975" height="460" alt="image" src="https://github.com/user-attachments/assets/7bfeeea8-7420-406a-9c8e-e964e1668f33" />
 
+# NXDOMAIN analysis
 
 <img width="975" height="318" alt="image" src="https://github.com/user-attachments/assets/50d4dba0-c142-4a6b-9229-388d69e60714" />
 
