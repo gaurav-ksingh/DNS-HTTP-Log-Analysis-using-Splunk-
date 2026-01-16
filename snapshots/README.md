@@ -17,13 +17,13 @@
 
 <img width="975" height="284" alt="image" src="https://github.com/user-attachments/assets/a2d8f6c5-b8c0-425a-bf8b-88a2158f96f9" />
 
-
+# Top talkers (source IPs)
 <img width="975" height="332" alt="image" src="https://github.com/user-attachments/assets/742ba493-2125-4a9b-9ba1-23ee2ce21acb" />
 
-
+# Failed HTTP requests
 <img width="975" height="461" alt="image" src="https://github.com/user-attachments/assets/dffce3ed-c931-4044-af31-b63050c5b6d8" />
 
-
+# Brute-force / admin probing
 <img width="975" height="314" alt="image" src="https://github.com/user-attachments/assets/4cd287ce-a1e0-4900-9d0a-bc13bfdf2a51" />
 
 # Suspicious user-agents
