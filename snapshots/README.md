@@ -15,6 +15,8 @@ index=http_lab  status_code>=500 status_code<600
 Identifies automated tools commonly used in attacks or scanning.
 <img width="975" height="253" alt="image" src="https://github.com/user-attachments/assets/37ae66d0-b89d-4d22-9e06-c708ff47f48d" />
 
+#  Detect Suspicious URI Access Attempts
+Highlights attempts to access admin panels, shells, or sensitive files.
 
 <img width="975" height="323" alt="image" src="https://github.com/user-attachments/assets/9ab48067-eddb-49d7-80bc-57849ee98cd3" />
 
