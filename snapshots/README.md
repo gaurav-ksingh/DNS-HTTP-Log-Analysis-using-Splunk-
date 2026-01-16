@@ -1,4 +1,4 @@
-
+# Log Ingestion
 <img width="975" height="463" alt="image" src="https://github.com/user-attachments/assets/84114d93-49e6-4195-a4e2-f769b1906176" />
 
 
