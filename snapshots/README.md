@@ -45,7 +45,7 @@
 
 
 
-
+## Large data transfers
 <img width="975" height="456" alt="image" src="https://github.com/user-attachments/assets/b1ce1d33-b68a-4eab-bbc1-6cca624983c6" />
 
 
@@ -55,7 +55,7 @@
 
 
 
-
+# TLS version usage
 <img width="975" height="328" alt="image" src="https://github.com/user-attachments/assets/facd00db-2da1-44cc-ae62-826afe0c848a" />
 
 ## Splunk Query: Count Events by Log Type 
