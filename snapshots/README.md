@@ -6,7 +6,8 @@
 Identifies the most active source IPs generating HTTP requests. 
 <img width="975" height="341" alt="image" src="https://github.com/user-attachments/assets/33852665-dd35-4808-a0cc-fa37eae1619d" />
 
-
+ # Count Server Errors (HTTP 5xx) 
+index=http_lab  status_code>=500 status_code<600 
 <img width="975" height="243" alt="image" src="https://github.com/user-attachments/assets/61d9ad14-0afc-4d9e-ab16-3164d37414b8" />
 
 
