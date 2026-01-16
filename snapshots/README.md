@@ -2,7 +2,8 @@
 <img width="975" height="463" alt="image" src="https://github.com/user-attachments/assets/84114d93-49e6-4195-a4e2-f769b1906176" />
 
 
-
+# Top 10 Endpoints Generating Web Traffic 
+Identifies the most active source IPs generating HTTP requests. 
 <img width="975" height="341" alt="image" src="https://github.com/user-attachments/assets/33852665-dd35-4808-a0cc-fa37eae1619d" />
 
 
