@@ -11,7 +11,8 @@ index=http_lab  status_code>=500 status_code<600
 <img width="975" height="243" alt="image" src="https://github.com/user-attachments/assets/61d9ad14-0afc-4d9e-ab16-3164d37414b8" />
 
 
-
+# Detect Suspicious / Scripted User-Agents
+Identifies automated tools commonly used in attacks or scanning.
 <img width="975" height="253" alt="image" src="https://github.com/user-attachments/assets/37ae66d0-b89d-4d22-9e06-c708ff47f48d" />
 
 
