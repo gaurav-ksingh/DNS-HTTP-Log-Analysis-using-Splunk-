@@ -15,6 +15,8 @@
 
 <img width="975" height="323" alt="image" src="https://github.com/user-attachments/assets/9ab48067-eddb-49d7-80bc-57849ee98cd3" />
 
+
+# HTTP vs DNS traffic count
 <img width="975" height="284" alt="image" src="https://github.com/user-attachments/assets/a2d8f6c5-b8c0-425a-bf8b-88a2158f96f9" />
 
 # Top talkers (source IPs)
